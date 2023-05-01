@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Khao Soi",
+        "image": "https://example.com/images/khao-soi.jpg",
+        "price": 13.99,
+        "details": "Khao Soi is a Northern Thai noodle soup made with chicken, curry paste, coconut milk, and egg noodles. It is typically garnished with crispy noodles, pickled mustard greens, and lime wedges."
+    },
+    {
+        "name": "Som Tum Tod",
+        "image": "https://example.com/images/som-tum-tod.jpg",
+        "price": 9.99,
+        "details": "Som Tum Tod is a fried version of the popular Thai salad Papaya Salad. It is made with shredded green papaya, carrots, and green beans, coated in a crispy batter and served with a sweet and sour sauce."
+    },
+    {
+        "name": "Gaeng Hang Lay",
+        "image": "https://example.com/images/gaeng-hang-lay.jpg",
+        "price": 15.99,
+        "details": "Gaeng Hang Lay is a Burmese-inspired curry dish popular in Northern Thailand. It is made with pork belly, ginger, garlic, and a blend of spices and is typically served with rice or roti."
+    },
+    {
+        "name": "Moo Ping",
+        "image": "https://example.com/images/moo-ping.jpg",
+        "price": 8.99,
+        "details": "Moo Ping is a popular street food in Thailand made with marinated grilled pork skewers. It is often served with sticky rice and a sweet and spicy dipping sauce."
+    },
+    {
+        "name": "Tom Yum Goong",
+        "image": "https://example.com/images/tom-yum-goong.jpg",
+        "price": 11.99,
+        "details": "Tom Yum Goong is a spicy and sour soup made with shrimp, lemongrass, kaffir lime leaves, and chili peppers. It is often served with rice and is a popular dish in Thailand and other Southeast Asian countries."
+    },
+    {
+        "name": "Pad See Ew",
+        "image": "https://example.com/images/pad-see-ew.jpg",
+        "price": 10.99,
+        "details": "Pad See Ew is a stir-fried noodle dish made with wide rice noodles, soy sauce, egg, and Chinese broccoli. It can be made with various meats or seafood and is a popular street food in Thailand."
+    },
+    {
+        "name": "Kai Med Ma Muang",
+        "image": "https://example.com/images/kai-med-ma-muang.jpg",
+        "price": 12.99,
+        "details": "Kai Med Ma Muang is a stir-fried chicken dish made with cashews, onions, and dried chili peppers. It is often served with rice and is a popular dish in both Thailand and China."
+    },
+    {
+        "name": "Gaeng Keow Wan Gai",
+        "image": "https://example.com/images/gaeng-keow-wan-gai.jpg",
+        "price": 14.99,
+        "details": "Gaeng Keow Wan Gai, also known as Green Curry Chicken, is a popular Thai dish made with green curry paste, coconut milk, chicken, and vegetables such as eggplant and green beans. It is often served with rice."
+    }
+]
