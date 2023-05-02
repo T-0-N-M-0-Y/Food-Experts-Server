@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Curry"
+    },
+    {
+      "id": 2,
+      "name": "Noodles"
+    },
+    {
+      "id": 3,
+      "name": "Soup"
+    },
+    {
+      "id": 4,
+      "name": "Stir Fry"
+    },
+    {
+      "id": 5,
+      "name": "Salad"
+    },
+    {
+      "id": 6,
+      "name": "Seafood"
+    },
+    {
+      "id": 7,
+      "name": "Vegetarian"
+    },
+    {
+      "id": 8,
+      "name": "Dessert"
+    },
+    {
+      "id": 9,
+      "name": "Appetizer"
+    },
+    {
+      "id": 10,
+      "name": "Rice Dishes"
+    }
+  ]
+  

@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Pad Thai",
         "image": "https://example.com/images/pad-thai.jpg",
         "price": 12.99,
@@ -7,6 +8,7 @@
         "rating": 4.5
     },
     {
+        "id": 2,
         "name": "Tom Kha Gai",
         "image": "https://example.com/images/tom-kha-gai.jpg",
         "price": 10.99,
@@ -14,6 +16,7 @@
         "rating": 4.2
     },
     {
+        "id": 3,
         "name": "Green Papaya Salad",
         "image": "https://example.com/images/green-papaya-salad.jpg",
         "price": 8.99,
@@ -21,6 +24,7 @@
         "rating": 4.1
     },
     {
+        "id": 4,
         "name": "Massaman Curry",
         "image": "https://example.com/images/massaman-curry.jpg",
         "price": 15.99,
@@ -28,6 +32,7 @@
         "rating": 4.7
     },
     {
+        "id": 5,
         "name": "Pad Kra Pao",
         "image": "https://example.com/images/pad-kra-pao.jpg",
         "price": 11.99,
@@ -35,6 +40,7 @@
         "rating": 4.3
     },
     {
+        "id": 6,
         "name": "Khao Soi",
         "image": "https://example.com/images/khao-soi.jpg",
         "price": 13.99,
@@ -42,6 +48,7 @@
         "rating": 4.6
     },
     {
+        "id": 7,
         "name": "Som Tum Tod",
         "image": "https://example.com/images/som-tum-tod.jpg",
         "price": 9.99,
@@ -49,6 +56,7 @@
         "rating": 4.0
     },
     {
+        "id": 8,
         "name": "Gaeng Keow Wan Gai",
         "image": "https://example.com/images/gaeng-keow-wan-gai.jpg",
         "price": 14.99,
@@ -56,6 +64,7 @@
         "rating": 4.0
     },
     {
+        "id": 9,
         "name": "Pad Kra Pao",
         "image": "https://example.com/images/pad-kra-pao.jpg",
         "price": 11.99,
@@ -63,6 +72,7 @@
         "rating": 4.3
     },
     {
+        "id": 10,
         "name": "Tom Kha Gai",
         "image": "https://example.com/images/tom-kha-gai.jpg",
         "price": 10.99,
