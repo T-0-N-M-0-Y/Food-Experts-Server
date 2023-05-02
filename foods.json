@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Pad Thai",
-        "image": "https://example.com/images/pad-thai.jpg",
+        "image": "https://www.recipetineats.com/wp-content/uploads/2018/05/Chicken-Pad-Thai_9.jpg",
         "price": 12.99,
         "details": "Pad Thai is a stir-fried noodle dish made with rice noodles, shrimp, tofu, eggs, and bean sprouts. It is often served with crushed peanuts, lime wedges, and chili flakes.",
         "rating": 4.5
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Tom Kha Gai",
-        "image": "https://example.com/images/tom-kha-gai.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flickr_preppybyday_4711943668--Tom_kha_gai.jpg",
         "price": 10.99,
         "details": "Tom Kha Gai is a coconut milk-based soup made with chicken, lemongrass, galangal, and kaffir lime leaves. It is often served with rice and is a popular dish in Thailand.",
         "rating": 4.2
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Green Papaya Salad",
-        "image": "https://example.com/images/green-papaya-salad.jpg",
+        "image": "https://www.eatingwell.com/thmb/KRW3HxgoGvTYh2z7ARftD_us8rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3756419-208646e74d824e3e994b7d797767ada7.jpg",
         "price": 8.99,
         "details": "Green Papaya Salad, also known as Som Tam, is a spicy salad made with shredded green papaya, tomatoes, green beans, and chili peppers. It is often served with sticky rice and is a popular street food in Thailand.",
         "rating": 4.1
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Massaman Curry",
-        "image": "https://example.com/images/massaman-curry.jpg",
+        "image": "https://www.thespruceeats.com/thmb/VbwlpVZBeOa_MX9OJ8q8GkiAjZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thai-massaman-chicken-curry-3217276-hero-01-905b78a814b74565aac9d7285666dfa6.jpg",
         "price": 15.99,
         "details": "Massaman Curry is a mild curry dish made with chicken, potatoes, peanuts, and a blend of spices including cinnamon and star anise. It is often served with rice and is a popular dish in Southern Thailand.",
         "rating": 4.7
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Pad Kra Pao",
-        "image": "https://example.com/images/pad-kra-pao.jpg",
+        "image": "https://drivemehungry.com/wp-content/uploads/2019/11/thai-basil-tofu-stir-fry-pad-krapow-gai-5.jpg",
         "price": 11.99,
         "details": "Pad Kra Pao is a stir-fry dish made with minced pork, chicken, or beef, stir-fried with Thai basil, garlic, and chili peppers. It is often served with rice and a fried egg.",
         "rating": 4.3
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Khao Soi",
-        "image": "https://example.com/images/khao-soi.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Khao_Soi_Northern_Thai_food_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B8%AD%E0%B8%A2_%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%87.jpg/1200px-Khao_Soi_Northern_Thai_food_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B8%AD%E0%B8%A2_%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%87.jpg",
         "price": 13.99,
         "details": "Khao Soi is a Northern Thai noodle soup made with chicken, curry paste, coconut milk, and egg noodles. It is typically garnished with crispy noodles, pickled mustard greens, and lime wedges.",
         "rating": 4.6
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "name": "Som Tum Tod",
-        "image": "https://example.com/images/som-tum-tod.jpg",
+        "image": "https://thaifooding.files.wordpress.com/2020/05/som-tum-tod-7.jpg?w=1024",
         "price": 9.99,
         "details": "Som Tum Tod is a fried version of the popular Thai salad Papaya Salad. It is made with shredded green papaya, carrots, and green beans, coated in a crispy batter and served with a sweet and sour sauce.",
         "rating": 4.0
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "name": "Gaeng Keow Wan Gai",
-        "image": "https://example.com/images/gaeng-keow-wan-gai.jpg",
+        "image": "https://asianinspirations.com.au/wp-content/uploads/2018/07/R00054-Gaeng_Kiew_Wan_Gai.jpg",
         "price": 14.99,
         "details": "Gaeng Keow Wan Gai, also known as Green Curry Chicken, is a popular Thai dish made with green curry paste, coconut milk, chicken, and vegetables such as eggplant and green beans. It is often served with rice.",
         "rating": 4.0
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "name": "Pad Kra Pao",
-        "image": "https://example.com/images/pad-kra-pao.jpg",
+        "image": "https://inquiringchef.com/wp-content/uploads/2020/02/Recipe-22.jpg",
         "price": 11.99,
         "details": "Pad Kra Pao is a stir-fry dish made with minced pork, chicken, or beef, stir-fried with Thai basil, garlic, and chili peppers. It is often served with rice and a fried egg.",
         "rating": 4.3
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "name": "Tom Kha Gai",
-        "image": "https://example.com/images/tom-kha-gai.jpg",
+        "image": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2020/12/Tom-Kha-Gai-19-mini.jpg?fit=1000%2C667&ssl=1",
         "price": 10.99,
         "details": "Tom Kha Gai is a coconut milk-based soup made with chicken, lemongrass, galangal, and kaffir lime leaves. It is often served with rice and is a popular dish in Thailand.",
         "rating": 4.2

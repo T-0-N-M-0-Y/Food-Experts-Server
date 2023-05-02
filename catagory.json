@@ -1,43 +1,38 @@
 [
     {
       "id": 1,
-      "name": "Curry"
+      "name": "Curry",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Eggplant-Curry%2Feggplant-curry-1",
+      "details": "Curry is a dish that typically consists of meat, vegetables, and spices in a sauce. It is often served with rice and is a popular dish in Thai cuisine."
     },
     {
       "id": 2,
-      "name": "Noodles"
+      "name": "Noodles",
+      "image": "https://www.cookerru.com/wp-content/uploads/2022/09/pan-fried-noodles-main-preview.jpg",
+      "details": "Noodles are a staple in Thai cuisine and come in many varieties. They can be served in soups, stir-fries, or as a main dish with meat and vegetables."
     },
     {
       "id": 3,
-      "name": "Soup"
+      "name": "Soup",
+      "image": "https://www.allrecipes.com/thmb/pTGS0SZsSQK85sV_RQE_K6ZfoN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26460-quick-and-easy-chicken-noodle-soup-allrecipes-1x1-1-b88125437574471db3e114c40bc6928e.jpg",
+      "details": "Thai soups are often made with a combination of meat or seafood, vegetables, and herbs. They can be spicy or mild and are usually served as a starter or as a main dish."
     },
     {
       "id": 4,
-      "name": "Stir Fry"
+      "name": "Stir Fry",
+      "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry.jpg",
+      "details": "Stir fry dishes are a popular and quick way to prepare a meal in Thai cuisine. They usually consist of meat, vegetables, and spices cooked quickly over high heat."
     },
     {
       "id": 5,
-      "name": "Salad"
+      "name": "Salad",
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2019/05/Chopped-Salad-001_1.jpg",
+      "details": "Thai salads are often made with fresh herbs, vegetables, and fruits, and are dressed with a spicy or sour dressing. They can be served as a starter or as a main dish."
     },
     {
       "id": 6,
-      "name": "Seafood"
-    },
-    {
-      "id": 7,
-      "name": "Vegetarian"
-    },
-    {
-      "id": 8,
-      "name": "Dessert"
-    },
-    {
-      "id": 9,
-      "name": "Appetizer"
-    },
-    {
-      "id": 10,
-      "name": "Rice Dishes"
+      "name": "Seafood",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/07/Roast-seafood-dish-b585388.jpg?resize=960,872",
+      "details": "Thailand is known for its fresh seafood, and it is a popular ingredient in many Thai dishes. Seafood can be grilled, fried, or steamed, and is often served with a spicy dipping sauce."
     }
-  ]
-  
+]
