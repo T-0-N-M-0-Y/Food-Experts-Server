@@ -16,9 +16,17 @@ app.get('/', (req, res) => {
 app.get('/foods', (req, res) =>{
     res.send(foods)
 })
+
 app.get('/chefs', (req, res) =>{
     res.send(chefs)
 })
+
+app.get('/chefs/:id', (req, res) =>{
+    const id = req.params.id;
+    const selectedChefs = chefs.find(c => c.id == id);
+    res.send(selectedChefs);
+})
+
 app.get('/catagory', (req, res) =>{
     res.send(catagories)
 })
