@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "chefName": "Ian Kittichai",
+        "yearsOfExperience": 25,
+        "numberOfRecipes": 150,
+        "picture": "https://example.com/images/ian-kittichai.jpg",
+        "bio": "Ian Kittichai is a Thai chef, restaurateur, cookbook author and television host. He is known for his modern take on traditional Thai cuisine, using international techniques and ingredients. He has worked in many prestigious restaurants around the world, including the Mandarin Oriental Bangkok, Nobu in New York, and Spoon in Hong Kong. He currently owns and operates his own restaurants in Thailand and around the world."
+    },
+    {
+        "id": 2,
+        "chefName": "David Thompson",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 200,
+        "picture": "https://example.com/images/david-thompson.jpg",
+        "bio": "David Thompson is an Australian chef and author known for his expertise in Thai cuisine. He has spent over 30 years studying and cooking Thai food, including working in some of Thailand's most prestigious restaurants. He has published several cookbooks on Thai cuisine, including the award-winning 'Thai Food'. He currently runs his own restaurant, Aaharn, in Hong Kong."
+    },
+    {
+        "id": 3,
+        "chefName": "Duangporn Songvisava",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 100,
+        "picture": "https://example.com/images/duangporn-songvisava.jpg",
+        "bio": "Duangporn Songvisava, also known as 'Bo', is a Thai chef and co-owner of the Michelin-starred restaurant Bo.Lan in Bangkok. She is known for her innovative and sustainable approach to Thai cuisine, using organic and locally sourced ingredients. She has won several awards for her cooking, including Asia's 50 Best Restaurants in 2013 and 2014. She is also an advocate for preserving traditional Thai cooking techniques and ingredients."
+    },
+    {
+        "id": 4,
+        "chefName": "Bee Satongun",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 75,
+        "picture": "https://example.com/images/bee-satongun.jpg",
+        "bio": "Bee Satongun is a Thai chef and co-owner of the Michelin-starred restaurant Paste in Bangkok. She is known for her dedication to traditional Thai cooking techniques and ingredients, as well as her creativity in combining different regional Thai cuisines. She has won several awards for her cooking, including Asia's 50 Best Restaurants in 2018 and 2019."
+    },
+    {
+        "id": 5,
+        "chefName": "Pim Techamuanvivit",
+        "yearsOfExperience": 18,
+        "numberOfRecipes": 90,
+        "picture": "https://example.com/images/pim-techamuanvivit.jpg",
+        "bio": "Pim Techamuanvivit is a Thai chef, food writer, and cookbook author based in San Francisco. She is known for her blog 'Chez Pim' and her cookbook 'The Foodie Handbook'. She is also a columnist for the San Francisco Chronicle and has written for several other publications. She is passionate about preserving traditional Thai cooking techniques and ingredients, while also experimenting with new flavors and techniques."
+    },
+    {
+        "id": 6,
+        "chefName": "Sarinthorn Chanchaleun",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 90,
+        "picture": "https://example.com/images/sarinthorn-chanchaleun.jpg",
+        "bio": "Sarinthorn Chanchaleun, also known as 'Chef Ann', is a Thai chef and co-owner of the restaurant Krok in Bangkok. She is known for her creative and innovative approach to Thai cuisine, using modern techniques and ingredients while still honoring traditional Thai flavors. She has worked in several Michelin-starred restaurants in Europe and Asia, including The Ledbury in London and Gaggan in Bangkok. She has also won several awards for her cooking, including Iron Chef Thailand in 2016."
+    },
+    {
+        "id": 7,
+        "chefName": "Nooror Somany-Steppe",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 250,
+        "picture": "https://example.com/images/nooror-somany-steppe.jpg",
+        "bio": "Nooror Somany-Steppe is a Thai chef and co-founder of the Blue Elephant restaurant group, which has locations around the world. She is known for her expertise in royal Thai cuisine, which is the cuisine traditionally served to the Thai royal family. She has published several cookbooks on Thai cuisine, including 'The Blue Elephant Cookbook'. She is also an advocate for using sustainable and locally sourced ingredients in her cooking."
+    },
+    {
+        "id": 8,
+        "chefName": "Nuit Regular",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 150,
+        "picture": "https://example.com/images/nuit-regular.jpg",
+        "bio": "Nuit Regular is a Thai chef and co-owner of the restaurant Pai Northern Thai Kitchen in Toronto, Canada. She is known for her authentic and traditional approach to Thai cuisine, using family recipes passed down through generations. She has won several awards for her cooking, including Canada's Best New Restaurants in 2016. She is also an advocate for using fresh and locally sourced ingredients in her cooking."
+    },
+    {
+        "id": 9,
+        "chefName": "Thanyawan Boonnak",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 80,
+        "picture": "https://example.com/images/thanyawan-boonnak.jpg",
+        "bio": "Thanyawan Boonnak is a Thai chef and owner of the restaurant Baan Ice in Bangkok. She is known for her creative and innovative approach to Thai cuisine, using modern techniques and ingredients while still honoring traditional Thai flavors. She has won several awards for her cooking, including Iron Chef Thailand in 2019. She is also an advocate for using organic and locally sourced ingredients in her cooking."
+    },
+    {
+        "id": 10,
+        "chefName": "Darin 'Dee' Limsuansub",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "picture": "https://example.com/images/darin-limsuansub.jpg",
+        "bio": "Darin 'Dee' Limsuansub is a Thai chef and owner of the restaurant Limsuansub in Bangkok. She is known for her creative and playful approach to Thai cuisine, using unexpected ingredients and techniques to create unique and memorable dishes. She has won several awards for her cooking, including Iron Chef Thailand in 2020. She is also an advocate for using sustainable and locally sourced ingredients in her cooking."
+    }
+]
